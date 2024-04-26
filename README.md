@@ -6,6 +6,7 @@ The prompt is very simple:
 
 please solve these math problems:
 13478+19245
+
 24691+85123
 ... (continued for 50 problems)
 
@@ -20,7 +21,9 @@ Here are the solutions to the math problems:
 I then do a second prompt and ask it to return only the final answers with no commas. This further tests the ability of the model to keep track of all the numbers and not get confused. It also tests multi-turn conversation. The final output should be a list of 50 numbers:
 
 32723
+
 109814
+
 70329
 ...
 
