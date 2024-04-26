@@ -27,3 +27,7 @@ I then do a second prompt and ask it to return only the final answers with no co
 Then I compare the results to the correct answers and give it a % correct score.
 
 Full example prompt is included as well as an Excel file with results of my tests.
+
+Results from 4/26/2024:
+
+![image](https://github.com/jd-3d/MPA_Bench/assets/51132497/b7fbd195-ee3a-4996-93ee-7b5b47670701)
