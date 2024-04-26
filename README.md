@@ -1,5 +1,5 @@
 # MPA_Bench
-MPA LLM Benchmark for Quants and Fine-Tunes
+MPA (Multi-prompt Arithmetic) LLM Benchmark for Quants and Fine-Tunes
 A benchmark that tests LLM model degradation due to quantization or fine-tuning. It runs 50 5-digit addition questions in a 2-turn prompt (~300 input and 600 output tokens). This more closely resembles complex questions/coding, etc and can result in steep accuracy reduction with quantization.
 
 The prompt is very simple:
